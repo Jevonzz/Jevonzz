@@ -61,6 +61,9 @@
 <a href="https://material-ui.com/" target="_blank">
   <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
 </a>
+<a href="https://nextjs.org/" target="_blank">
+  <img alt="NextJs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+</a>
 
 <a href="https://nodejs.org/" target="_blank">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
@@ -68,6 +71,12 @@
 
 <a href="https://www.java.com/en/" target="_blank">
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+</a>
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+</a>
+<a href="https://www.python.org/" target="_blank">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </a>
 
 <a href="https://www.mysql.com/" target="_blank">
