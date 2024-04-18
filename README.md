@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 Explore my projects at [ahmadpiracha.netlify.app](https://ahmadpiracha.netlify.app)
+- 👨‍💻 Explore my projects at [Jevonzz Repo](https://github.com/Jevonzz?tab=repositories)
 
 - 💬 Ask me about **React,React Native, Next.js, Node.js**
 
