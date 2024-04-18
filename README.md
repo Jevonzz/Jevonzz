@@ -87,14 +87,14 @@
 
 ## Github Contribution Streak 🔥 
 <br>
-<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=ahmadpiracha&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
+<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=jevonzz&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
 
 <hr><br>
 
 ## Github Stats &nbsp;📊
 <br>
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=ahmadpiracha&show_icons=true&theme=github_dark">
+<img src="https://github-readme-stats.vercel.app/api?username=jevonzz&show_icons=true&theme=github_dark">
 </p>
 <hr>
 <br>
