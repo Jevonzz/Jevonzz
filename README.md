@@ -13,10 +13,7 @@
 
 - 💬 Ask me about **React,React Native, Next.js, Node.js**
 
-- 📫 Reach me at **ahmadpiracha3@gmail.com**
-
-- 📄 Learn more about my experiences at [ahmadpiracha.netlify.app](https://ahmadpiracha.netlify.app)
-
+- 📫 Reach me at **keatvun191@gmail.com**
 
 ### Connect with me 🔗 :
 <br>
