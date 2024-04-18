@@ -18,11 +18,11 @@
 ### Connect with me 🔗 :
 <br>
 <p align='center'>
-<a href="mailto:ahmadpiracha3@gmail.com" target="_blank">
+<a href="mailto:keatvun191@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/ahmadpiracha" target="_blank">
-<img src="https://img.shields.io/badge/ahmadpiracha-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/2001y.__/" target="_blank">
+<img src="https://img.shields.io/badge/2001y.__-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ahmad-waseem-piracha" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
 </p>
