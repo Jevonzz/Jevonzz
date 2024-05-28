@@ -11,7 +11,7 @@
 
 - 👨‍💻 Explore my projects at [Jevonzz Repo](https://github.com/Jevonzz?tab=repositories)
 
-- 💬 Ask me about **React,React Native, Next.js, Node.js**
+- 💬 Ask me about **React, React Native, Next.js, Node.js**
 
 - 📫 Reach me at **keatvun191@gmail.com**
 
