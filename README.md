@@ -7,7 +7,7 @@
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Typescript & C#**
 
 - 👨‍💻 Explore my projects at [Jevonzz Repo](https://github.com/Jevonzz?tab=repositories)
 
